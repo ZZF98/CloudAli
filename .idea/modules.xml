@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CloudAli.iml" filepath="$PROJECT_DIR$/.idea/CloudAli.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-user/cloud-user.iml" filepath="$PROJECT_DIR$/cloud-user/cloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-user/cloud-user-client/cloud-user-client.iml" filepath="$PROJECT_DIR$/cloud-user/cloud-user-client/cloud-user-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-user/cloud-user-service/cloud-user-service.iml" filepath="$PROJECT_DIR$/cloud-user/cloud-user-service/cloud-user-service.iml" />
     </modules>
   </component>
 </project>
